@@ -10,7 +10,7 @@ RegisterCommand('tanglehackhard', function()
     end
   end, HOW MANY CIRCLES U WANT)
 end)
-
+ 
 if you change the UI make sure to open the terminal and do the following.
 
 [1] - cd web
